@@ -1,1 +1,3 @@
 
+The CSV file named Parameters_range_values must list all model parameters intended for sensitivity analysis, with each entry reflecting the specific variables relevant to the user's study area. To tailor this file for your research, review and adjust the parameter names as well as their lower and upper bounds so they represent realistic ranges and variables for your watershed or study domain. This customization ensures the sensitivity analysis is relevant and robust for your chosen system.
+
