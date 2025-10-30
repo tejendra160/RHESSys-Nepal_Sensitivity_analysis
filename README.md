@@ -1,5 +1,5 @@
-#Explanation of each Code files
-
+#Explanation of each Code file
+#This branch doesn't include the in-built RHESSys parameters in the sensitivity analysis. 
 
 Parameters_value_range: 
 The file "Parameters_range_value.csv" contains three columns: Parameter Name, Lower Limit, and Upper Limit.
